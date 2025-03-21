@@ -5,7 +5,6 @@
 <head>
 <meta charset="utf-8">
 <link href="new 1.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=gclK1wDXzGlIvgKBiAOdOUFx0m0_xZEGrKSgM2TYS2uNBaDumZdVt8Jcwg8nbsG3foPgTYS9J50ZaHFSG7SBbg" charset="UTF-8"></script></head>
 <body>
 <header>
 <div class="banner">
