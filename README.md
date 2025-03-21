@@ -3,6 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    body {
+        background-color: #FFB6C1; /* Mã màu hồng nhạt */
+    }
+</style>
 <meta charset="utf-8">
 <link href="new 1.css" rel="stylesheet" type="text/css">
 <body>
@@ -79,11 +84,11 @@
 <ul>
 <li>Điện thoại: 0123456789</li>
 <li>website: <a class='link' href='/'>CLB Ngoại Khóa Trường THPT Trần PHú</a></li>
-<li>Thông tin người làm website: <a href="https://www.facebook.com/share/14zJBRExM9/" class="link">Vũ Duy và Quỳnh Anh</a></li>
+<li>Thông tin người làm website: <a href="https://www.facebook.com/share/1EGHK4kDzh/" class="link">Quốc Cường và Hữu Quốc</a></li>
 </ul>
 </div>
-<div style="width:10%"></div>
-<div style="width:30%">
+<div style="width:20%"></div>
+<div style="width:40%">
 <h1>Xem chi tiết:</h1>
 <ul>
 <li> trang web CLB thể thao:</li><a class='link' href='/cc1'>Xem thêm tại đây</a>
